@@ -17,3 +17,5 @@ You can use `text` and `entity` directly from https://core.telegram.org/bots/api
 Using both `UTF-16LE` and `UTF-16BE` is necessary for correct parsing, don't ask me why, it just works.
 
 The `NULL` character is used internally in the functions, in any case Telegram will never send you that character.
+
+Special thanks to [giuseppeM99](https://github.com/giuseppeM99)
